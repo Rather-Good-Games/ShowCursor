@@ -34,4 +34,5 @@ generated](media/001153dd92eb5c0505d413de1a300129.png)
 
 Hit play and press the button you selected to show the cursor.
 
-<https://youtu.be/Wbf0DS2OH38>
+![A picture containing text, computer, screenshot Description automatically
+generated](media/fc690563152860c0f9f1a93cd6880871.jpeg)
