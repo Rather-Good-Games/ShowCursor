@@ -1,6 +1,6 @@
 # ShowCursor
 
-**Author:** RLC
+**Author:** RatherGood1
 
 **Description:** Provides hotkey to display cursor without bringing up a dialog
 for Suriyun MMORPG Kit.
@@ -34,5 +34,4 @@ generated](media/001153dd92eb5c0505d413de1a300129.png)
 
 Hit play and press the button you selected to show the cursor.
 
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Wbf0DS2OH38/0.jpg)](http://www.youtube.com/watch?v=Wbf0DS2OH38)
+[![](http://img.youtube.com/vi/Wbf0DS2OH38/0.jpg)](http://www.youtube.com/watch?v=Wbf0DS2OH38)
