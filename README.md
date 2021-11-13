@@ -35,3 +35,5 @@ generated](media/001153dd92eb5c0505d413de1a300129.png)
 Hit play and press the button you selected to show the cursor.
 
 [![](http://img.youtube.com/vi/Wbf0DS2OH38/0.jpg)](http://www.youtube.com/watch?v=Wbf0DS2OH38)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L7RYB7NRR78L6)
